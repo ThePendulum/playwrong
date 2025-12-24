@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "playwright": "^1.57.0",
+    "why-is-node-running": "^3.2.2"
+  }
+}
